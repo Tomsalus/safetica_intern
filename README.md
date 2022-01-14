@@ -1,0 +1,1 @@
+# safetica_intern
