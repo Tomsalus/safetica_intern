@@ -1,0 +1,508 @@
+2020/09/11 - 08:30:21.701 
+2020/09/11 - 08:30:21.706 *************************************************
+2020/09/11 - 08:30:21.711 Setting up a test
+2020/09/11 - 08:30:21.721 *************************************************
+2020/09/11 - 08:30:21.733 Starting a driver
+2020/09/11 - 08:30:26.370 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 08:30:27.611 Checking the title
+2020/09/11 - 08:30:27.653 Looking for element
+2020/09/11 - 08:30:28.346 Entering E-mail
+2020/09/11 - 08:30:29.405 Looking for element
+2020/09/11 - 08:30:29.688 Entering password
+2020/09/11 - 08:30:30.217 Looking for element
+2020/09/11 - 08:30:40.089 Skipping 'Stay signed in'
+2020/09/11 - 08:30:41.103 Looking for element
+2020/09/11 - 08:30:41.741 Opening web app
+2020/09/11 - 08:30:41.811 
+2020/09/11 - 08:30:41.817 *************************************************
+2020/09/11 - 08:30:41.826 Starting a test
+2020/09/11 - 08:30:41.831 *************************************************
+2020/09/11 - 08:30:41.840 Looking for element
+2020/09/11 - 08:30:44.970 Trying to attach a file
+2020/09/11 - 08:30:44.993 Looking for element
+2020/09/11 - 08:30:45.048 Selecting OneDrive Option
+2020/09/11 - 08:30:54.554 Looking for element
+2020/09/11 - 08:30:54.560 Selecting Document
+2020/09/11 - 08:30:58.684 Looking for element
+2020/09/11 - 08:30:58.712 Uploading the file
+2020/09/11 - 08:31:03.335 File already uploaded
+2020/09/11 - 08:31:03.342 Trying to replace the file
+2020/09/11 - 08:31:03.806 Replacing the file
+2020/09/11 - 08:31:09.284 Looking for element
+2020/09/11 - 08:31:09.293 Changing a channel
+2020/09/11 - 08:31:10.794 Looking for element
+2020/09/11 - 08:31:11.048 Entering message
+2020/09/11 - 08:31:15.510 *************************************************
+2020/09/11 - 08:31:15.516 Test PASSED
+2020/09/11 - 08:31:15.522 *************************************************
+2020/09/11 - 08:39:45.094 
+2020/09/11 - 08:39:45.101 *************************************************
+2020/09/11 - 08:39:45.108 Setting up a test
+2020/09/11 - 08:39:45.115 *************************************************
+2020/09/11 - 08:39:45.120 Starting a driver
+2020/09/11 - 08:39:47.840 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 08:39:48.726 Checking the title
+2020/09/11 - 08:39:48.887 Looking for element
+2020/09/11 - 08:39:49.557 Entering E-mail
+2020/09/11 - 08:39:50.605 Looking for element
+2020/09/11 - 08:39:50.625 Entering password
+2020/09/11 - 08:39:51.132 Looking for element
+2020/09/11 - 08:39:56.568 Skipping 'Stay signed in'
+2020/09/11 - 08:39:57.591 Looking for element
+2020/09/11 - 08:39:57.742 Opening web app
+2020/09/11 - 08:39:57.757 
+2020/09/11 - 08:39:57.780 *************************************************
+2020/09/11 - 08:39:57.802 Starting a test
+2020/09/11 - 08:39:57.831 *************************************************
+2020/09/11 - 08:39:57.849 Looking for element
+2020/09/11 - 08:40:03.549 Trying to attach a file
+2020/09/11 - 08:40:03.630 Looking for element
+2020/09/11 - 08:40:03.699 Selecting OneDrive Option
+2020/09/11 - 08:40:10.571 Looking for element
+2020/09/11 - 08:40:10.605 Selecting Document
+2020/09/11 - 08:40:14.859 Looking for element
+2020/09/11 - 08:40:14.866 Uploading the file
+2020/09/11 - 08:40:19.580 File already uploaded
+2020/09/11 - 08:40:19.587 Trying to replace the file
+2020/09/11 - 08:40:20.257 Replacing the file
+2020/09/11 - 08:40:25.696 Looking for element
+2020/09/11 - 08:40:25.769 Changing a channel
+2020/09/11 - 08:40:27.246 Looking for element
+2020/09/11 - 08:40:27.334 Entering message
+2020/09/11 - 08:40:28.349 *************************************************
+2020/09/11 - 08:40:28.357 Test PASSED
+2020/09/11 - 08:40:28.369 *************************************************
+2020/09/11 - 08:45:25.576 
+2020/09/11 - 08:45:25.583 *************************************************
+2020/09/11 - 08:45:25.592 Setting up a test
+2020/09/11 - 08:45:25.604 *************************************************
+2020/09/11 - 08:45:25.610 Starting a driver
+2020/09/11 - 08:45:28.410 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 08:45:29.338 Checking the title
+2020/09/11 - 08:45:29.377 Looking for element
+2020/09/11 - 08:45:30.220 Entering E-mail
+2020/09/11 - 08:45:31.261 Looking for element
+2020/09/11 - 08:45:31.282 Entering password
+2020/09/11 - 08:45:31.816 Looking for element
+2020/09/11 - 08:45:37.766 Skipping 'Stay signed in'
+2020/09/11 - 08:45:38.796 Looking for element
+2020/09/11 - 08:45:39.212 Opening web app
+2020/09/11 - 08:45:39.240 
+2020/09/11 - 08:45:39.312 *************************************************
+2020/09/11 - 08:45:39.341 Starting a test
+2020/09/11 - 08:45:39.357 *************************************************
+2020/09/11 - 08:45:39.376 Looking for element
+2020/09/11 - 08:45:43.174 Trying to attach a file
+2020/09/11 - 08:45:43.180 Looking for element
+2020/09/11 - 08:45:43.307 Selecting OneDrive Option
+2020/09/11 - 08:45:52.758 Looking for element
+2020/09/11 - 08:45:52.798 Selecting Document
+2020/09/11 - 08:45:57.861 Looking for element
+2020/09/11 - 08:45:57.869 Uploading the file
+2020/09/11 - 08:46:01.436 File already uploaded
+2020/09/11 - 08:46:01.445 Trying to replace the file
+2020/09/11 - 08:46:01.837 Replacing the file
+2020/09/11 - 08:46:07.303 Looking for element
+2020/09/11 - 08:46:07.309 Changing a channel
+2020/09/11 - 08:46:08.992 Looking for element
+2020/09/11 - 08:46:09.082 Entering message
+2020/09/11 - 08:46:10.968 *************************************************
+2020/09/11 - 08:46:10.976 Test PASSED
+2020/09/11 - 08:46:10.983 *************************************************
+2020/09/11 - 09:04:57.283 
+2020/09/11 - 09:04:57.290 *************************************************
+2020/09/11 - 09:04:57.300 Setting up a test
+2020/09/11 - 09:04:57.309 *************************************************
+2020/09/11 - 09:04:57.316 Starting a driver
+2020/09/11 - 09:05:00.121 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 09:05:01.100 Checking the title
+2020/09/11 - 09:05:01.148 Looking for element
+2020/09/11 - 09:05:01.653 Entering E-mail
+2020/09/11 - 09:05:02.689 Looking for element
+2020/09/11 - 09:05:02.712 Entering password
+2020/09/11 - 09:05:03.265 Looking for element
+2020/09/11 - 09:05:08.121 Skipping 'Stay signed in'
+2020/09/11 - 09:05:09.145 Looking for element
+2020/09/11 - 09:05:09.499 Opening web app
+2020/09/11 - 09:05:09.519 
+2020/09/11 - 09:05:09.550 *************************************************
+2020/09/11 - 09:05:09.558 Starting a test
+2020/09/11 - 09:05:09.568 *************************************************
+2020/09/11 - 09:05:09.579 Looking for element
+2020/09/11 - 09:05:12.606 Trying to attach a file
+2020/09/11 - 09:05:12.613 Looking for element
+2020/09/11 - 09:05:12.619 Selecting OneDrive Option
+2020/09/11 - 09:05:23.398 Looking for element
+2020/09/11 - 09:05:23.410 Selecting Document
+2020/09/11 - 09:05:28.497 Looking for element
+2020/09/11 - 09:05:28.506 Uploading the file
+2020/09/11 - 09:05:32.943 File already uploaded
+2020/09/11 - 09:05:32.952 Trying to replace the file
+2020/09/11 - 09:05:33.484 Replacing the file
+2020/09/11 - 09:05:38.898 Looking for element
+2020/09/11 - 09:05:38.941 Changing a channel
+2020/09/11 - 09:05:40.364 Looking for element
+2020/09/11 - 09:05:40.451 Entering message
+2020/09/11 - 09:05:42.393 *************************************************
+2020/09/11 - 09:05:42.400 Test PASSED
+2020/09/11 - 09:05:42.407 *************************************************
+2020/09/11 - 10:16:18.612 
+2020/09/11 - 10:16:18.619 *************************************************
+2020/09/11 - 10:16:18.626 Setting up a test
+2020/09/11 - 10:16:18.638 *************************************************
+2020/09/11 - 10:16:18.644 Starting a driver
+2020/09/11 - 10:16:22.281 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 10:16:23.411 Checking the title
+2020/09/11 - 10:16:23.558 Looking for element
+2020/09/11 - 10:16:24.210 Entering E-mail
+2020/09/11 - 10:16:25.233 Looking for element
+2020/09/11 - 10:16:25.253 Entering password
+2020/09/11 - 10:16:25.769 Looking for element
+2020/09/11 - 10:16:31.360 Skipping 'Stay signed in'
+2020/09/11 - 10:16:32.389 Looking for element
+2020/09/11 - 10:16:32.524 Opening web app
+2020/09/11 - 10:16:32.541 
+2020/09/11 - 10:16:32.566 *************************************************
+2020/09/11 - 10:16:32.578 Starting a test
+2020/09/11 - 10:16:32.583 *************************************************
+2020/09/11 - 10:16:32.590 Looking for element
+2020/09/11 - 10:16:36.967 Trying to attach a file
+2020/09/11 - 10:16:36.981 Looking for element
+2020/09/11 - 10:16:36.988 Selecting OneDrive Option
+2020/09/11 - 10:16:46.470 Looking for element
+2020/09/11 - 10:16:47.265 Selecting Document
+2020/09/11 - 10:16:50.400 Looking for element
+2020/09/11 - 10:16:50.407 Uploading the file
+2020/09/11 - 10:16:55.231 File already uploaded
+2020/09/11 - 10:16:55.238 Trying to replace the file
+2020/09/11 - 10:16:55.699 Replacing the file
+2020/09/11 - 10:17:01.182 Looking for element
+2020/09/11 - 10:17:01.193 Changing a channel
+2020/09/11 - 10:17:02.753 Looking for element
+2020/09/11 - 10:17:02.912 Entering message
+2020/09/11 - 10:17:05.796 *************************************************
+2020/09/11 - 10:17:05.803 Test PASSED
+2020/09/11 - 10:17:05.810 *************************************************
+2020/09/11 - 10:41:58.696 
+2020/09/11 - 10:41:58.705 *************************************************
+2020/09/11 - 10:41:58.716 Setting up a test
+2020/09/11 - 10:41:58.724 *************************************************
+2020/09/11 - 10:41:58.733 Starting a driver
+2020/09/11 - 10:42:01.493 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 10:42:02.420 Checking the title
+2020/09/11 - 10:42:02.513 Looking for element
+2020/09/11 - 10:42:03.350 Entering E-mail
+2020/09/11 - 10:42:04.378 Looking for element
+2020/09/11 - 10:42:04.421 Entering password
+2020/09/11 - 10:42:04.883 Looking for element
+2020/09/11 - 10:42:10.550 Skipping 'Stay signed in'
+2020/09/11 - 10:42:11.562 Looking for element
+2020/09/11 - 10:42:12.023 Opening web app
+2020/09/11 - 10:42:12.037 
+2020/09/11 - 10:42:12.058 *************************************************
+2020/09/11 - 10:42:12.112 Starting a test
+2020/09/11 - 10:42:12.142 *************************************************
+2020/09/11 - 10:42:12.152 Looking for element
+2020/09/11 - 10:42:15.362 Trying to attach a file
+2020/09/11 - 10:42:15.369 Looking for element
+2020/09/11 - 10:42:15.379 Selecting OneDrive Option
+2020/09/11 - 10:42:15.433 Case not found
+2020/09/11 - 10:42:15.439 Looking for element
+2020/09/11 - 10:42:15.445 Selecting Document
+2020/09/11 - 10:42:22.296 *************************************************
+2020/09/11 - 10:42:22.312 Test PASSED
+2020/09/11 - 10:42:22.357 *************************************************
+2020/09/11 - 10:42:45.005 
+2020/09/11 - 10:42:45.013 *************************************************
+2020/09/11 - 10:42:45.020 Setting up a test
+2020/09/11 - 10:42:45.031 *************************************************
+2020/09/11 - 10:42:45.039 Starting a driver
+2020/09/11 - 10:42:47.879 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 10:42:48.817 Checking the title
+2020/09/11 - 10:42:48.871 Looking for element
+2020/09/11 - 10:42:49.470 Entering E-mail
+2020/09/11 - 10:42:50.483 Looking for element
+2020/09/11 - 10:42:50.507 Entering password
+2020/09/11 - 10:42:51.012 Looking for element
+2020/09/11 - 10:42:55.990 Skipping 'Stay signed in'
+2020/09/11 - 10:42:57.011 Looking for element
+2020/09/11 - 10:42:57.418 Opening web app
+2020/09/11 - 10:42:57.434 
+2020/09/11 - 10:42:57.467 *************************************************
+2020/09/11 - 10:42:57.476 Starting a test
+2020/09/11 - 10:42:57.483 *************************************************
+2020/09/11 - 10:42:57.494 Looking for element
+2020/09/11 - 10:43:04.349 Trying to attach a file
+2020/09/11 - 10:43:04.469 Looking for element
+2020/09/11 - 10:43:04.475 Selecting OneDrive Option
+2020/09/11 - 10:43:04.559 Case not found
+2020/09/11 - 10:43:04.627 Looking for element
+2020/09/11 - 10:43:04.776 Selecting Document
+2020/09/11 - 10:43:10.780 *************************************************
+2020/09/11 - 10:43:10.826 Test PASSED
+2020/09/11 - 10:43:10.853 *************************************************
+2020/09/11 - 10:43:54.169 
+2020/09/11 - 10:43:54.177 *************************************************
+2020/09/11 - 10:43:54.184 Setting up a test
+2020/09/11 - 10:43:54.195 *************************************************
+2020/09/11 - 10:43:54.214 Starting a driver
+2020/09/11 - 10:43:57.004 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 10:43:58.047 Checking the title
+2020/09/11 - 10:43:58.348 Looking for element
+2020/09/11 - 10:43:58.949 Entering E-mail
+2020/09/11 - 10:43:59.973 Looking for element
+2020/09/11 - 10:43:59.995 Entering password
+2020/09/11 - 10:44:00.468 Looking for element
+2020/09/11 - 10:44:05.835 Skipping 'Stay signed in'
+2020/09/11 - 10:44:06.851 Looking for element
+2020/09/11 - 10:44:07.228 Opening web app
+2020/09/11 - 10:44:07.246 
+2020/09/11 - 10:44:07.349 *************************************************
+2020/09/11 - 10:44:07.355 Starting a test
+2020/09/11 - 10:44:07.361 *************************************************
+2020/09/11 - 10:44:07.373 Looking for element
+2020/09/11 - 10:44:12.371 Trying to attach a file
+2020/09/11 - 10:44:12.380 Looking for element
+2020/09/11 - 10:44:12.450 Selecting OneDrive Option
+2020/09/11 - 10:44:12.559 Case not found
+2020/09/11 - 10:44:12.629 Looking for element
+2020/09/11 - 10:44:12.635 Selecting Document
+2020/09/11 - 10:44:20.356 *************************************************
+2020/09/11 - 10:44:20.368 Test PASSED
+2020/09/11 - 10:44:20.412 *************************************************
+2020/09/11 - 10:45:01.616 
+2020/09/11 - 10:45:01.625 *************************************************
+2020/09/11 - 10:45:01.632 Setting up a test
+2020/09/11 - 10:45:01.638 *************************************************
+2020/09/11 - 10:45:01.645 Starting a driver
+2020/09/11 - 10:45:05.425 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 10:45:05.519 Checking the title
+2020/09/11 - 10:45:05.702 Looking for element
+2020/09/11 - 10:45:06.400 Entering E-mail
+2020/09/11 - 10:45:07.413 Looking for element
+2020/09/11 - 10:45:07.443 Entering password
+2020/09/11 - 10:45:08.196 Looking for element
+2020/09/11 - 10:45:14.825 Skipping 'Stay signed in'
+2020/09/11 - 10:45:15.870 Looking for element
+2020/09/11 - 10:45:16.065 Opening web app
+2020/09/11 - 10:45:16.079 
+2020/09/11 - 10:45:16.107 *************************************************
+2020/09/11 - 10:45:16.127 Starting a test
+2020/09/11 - 10:45:16.138 *************************************************
+2020/09/11 - 10:45:16.151 Looking for element
+2020/09/11 - 10:45:18.874 Trying to attach a file
+2020/09/11 - 10:45:18.880 Looking for element
+2020/09/11 - 10:45:18.889 Selecting OneDrive Option
+2020/09/11 - 10:45:28.996 Looking for element
+2020/09/11 - 10:45:29.595 Selecting Document
+2020/09/11 - 10:45:32.997 Looking for element
+2020/09/11 - 10:45:33.035 Uploading the file
+2020/09/11 - 10:45:37.662 File already uploaded
+2020/09/11 - 10:45:37.670 Trying to replace the file
+2020/09/11 - 10:45:38.094 Replacing the file
+2020/09/11 - 10:45:43.723 Looking for element
+2020/09/11 - 10:45:43.731 Changing a channel
+2020/09/11 - 10:45:45.237 Looking for element
+2020/09/11 - 10:45:45.335 Entering message
+2020/09/11 - 10:45:46.567 *************************************************
+2020/09/11 - 10:45:46.574 Test PASSED
+2020/09/11 - 10:45:46.590 *************************************************
+2020/09/11 - 10:47:27.764 
+2020/09/11 - 10:47:27.771 *************************************************
+2020/09/11 - 10:47:27.778 Setting up a test
+2020/09/11 - 10:47:27.791 *************************************************
+2020/09/11 - 10:47:27.798 Starting a driver
+2020/09/11 - 10:47:30.613 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 10:47:31.648 Checking the title
+2020/09/11 - 10:47:31.713 Looking for element
+2020/09/11 - 10:47:32.614 Entering E-mail
+2020/09/11 - 10:47:33.645 Looking for element
+2020/09/11 - 10:47:33.668 Entering password
+2020/09/11 - 10:47:34.536 Looking for element
+2020/09/11 - 10:47:40.396 Skipping 'Stay signed in'
+2020/09/11 - 10:47:41.408 Looking for element
+2020/09/11 - 10:47:41.732 Opening web app
+2020/09/11 - 10:47:41.746 
+2020/09/11 - 10:47:41.803 *************************************************
+2020/09/11 - 10:47:41.809 Starting a test
+2020/09/11 - 10:47:41.817 *************************************************
+2020/09/11 - 10:47:41.825 Looking for element
+2020/09/11 - 10:47:46.116 Trying to attach a file
+2020/09/11 - 10:47:46.123 Looking for element
+2020/09/11 - 10:47:46.129 Selecting OneDrive Option
+2020/09/11 - 10:47:46.203 Case not found
+2020/09/11 - 10:47:46.244 Looking for element
+2020/09/11 - 10:47:46.316 Selecting Document
+2020/09/11 - 10:47:52.969 *************************************************
+2020/09/11 - 10:47:52.989 Test PASSED
+2020/09/11 - 10:47:53.028 *************************************************
+2020/09/11 - 10:48:54.574 
+2020/09/11 - 10:48:54.581 *************************************************
+2020/09/11 - 10:48:54.590 Setting up a test
+2020/09/11 - 10:48:54.602 *************************************************
+2020/09/11 - 10:48:54.609 Starting a driver
+2020/09/11 - 10:48:57.548 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 10:48:57.713 Checking the title
+2020/09/11 - 10:48:58.520 Looking for element
+2020/09/11 - 10:48:59.253 Entering E-mail
+2020/09/11 - 10:49:00.309 Looking for element
+2020/09/11 - 10:49:00.339 Entering password
+2020/09/11 - 10:49:01.028 Looking for element
+2020/09/11 - 10:49:01.397 Skipping 'Stay signed in'
+2020/09/11 - 10:49:02.434 Looking for element
+2020/09/11 - 10:49:07.551 Exception: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='download-desktop-page']/div/a"}
+  (Session info: chrome=85.0.4183.102)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at Test.CommonTest.Click(String element, String path) in C:\Users\admin\source\repos\Test\Test\CommonTest.cs:line 33
+   at Test.TeamsChromeTest.LogIn() in C:\Users\admin\source\repos\Test\Test\TeamsChromeTest.cs:line 66
+2020/09/11 - 10:49:07.566 
+2020/09/11 - 10:49:07.575 *************************************************
+2020/09/11 - 10:49:07.589 Starting a test
+2020/09/11 - 10:49:07.595 *************************************************
+2020/09/11 - 10:49:07.610 Looking for element
+2020/09/11 - 10:49:20.765 
+2020/09/11 - 10:49:20.777 *************************************************
+2020/09/11 - 10:49:20.784 Setting up a test
+2020/09/11 - 10:49:20.796 *************************************************
+2020/09/11 - 10:49:20.804 Starting a driver
+2020/09/11 - 10:49:23.724 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 10:49:24.874 Checking the title
+2020/09/11 - 10:49:24.968 Looking for element
+2020/09/11 - 10:49:25.797 Entering E-mail
+2020/09/11 - 10:49:26.821 Looking for element
+2020/09/11 - 10:49:26.852 Entering password
+2020/09/11 - 10:49:27.472 Looking for element
+2020/09/11 - 10:49:28.012 Skipping 'Stay signed in'
+2020/09/11 - 10:49:29.108 Looking for element
+2020/09/11 - 10:49:34.211 Exception: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='download-desktop-page']/div/a"}
+  (Session info: chrome=85.0.4183.102)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at Test.CommonTest.Click(String element, String path) in C:\Users\admin\source\repos\Test\Test\CommonTest.cs:line 33
+   at Test.TeamsChromeTest.LogIn() in C:\Users\admin\source\repos\Test\Test\TeamsChromeTest.cs:line 66
+2020/09/11 - 10:49:34.225 
+2020/09/11 - 10:49:34.241 *************************************************
+2020/09/11 - 10:49:34.250 Starting a test
+2020/09/11 - 10:49:34.259 *************************************************
+2020/09/11 - 10:49:34.268 Looking for element
+2020/09/11 - 10:49:39.424 *************************************************
+2020/09/11 - 10:49:39.433 Test PASSED
+2020/09/11 - 10:49:39.440 *************************************************
+2020/09/11 - 10:50:25.757 
+2020/09/11 - 10:50:25.767 *************************************************
+2020/09/11 - 10:50:25.776 Setting up a test
+2020/09/11 - 10:50:25.783 *************************************************
+2020/09/11 - 10:50:25.790 Starting a driver
+2020/09/11 - 10:50:28.557 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 10:50:28.723 Checking the title
+2020/09/11 - 10:50:29.497 Looking for element
+2020/09/11 - 10:50:30.407 Entering E-mail
+2020/09/11 - 10:50:31.419 Looking for element
+2020/09/11 - 10:50:31.443 Entering password
+2020/09/11 - 10:50:31.867 Looking for element
+2020/09/11 - 10:50:37.024 Skipping 'Stay signed in'
+2020/09/11 - 10:50:38.039 Looking for element
+2020/09/11 - 10:50:38.367 Opening web app
+2020/09/11 - 10:50:38.416 
+2020/09/11 - 10:50:38.456 *************************************************
+2020/09/11 - 10:50:38.465 Starting a test
+2020/09/11 - 10:50:38.473 *************************************************
+2020/09/11 - 10:50:38.482 Looking for element
+2020/09/11 - 10:50:45.713 Trying to attach a file
+2020/09/11 - 10:50:45.748 Looking for element
+2020/09/11 - 10:50:45.754 Selecting OneDrive Option
+2020/09/11 - 10:50:53.252 Looking for element
+2020/09/11 - 10:50:53.261 Selecting Document
+2020/09/11 - 10:50:58.315 Looking for element
+2020/09/11 - 10:50:58.323 Uploading the file
+2020/09/11 - 10:51:02.053 File already uploaded
+2020/09/11 - 10:51:02.070 Trying to replace the file
+2020/09/11 - 10:51:02.700 Replacing the file
+2020/09/11 - 10:51:08.281 Looking for element
+2020/09/11 - 10:51:08.290 Changing a channel
+2020/09/11 - 10:51:10.080 Looking for element
+2020/09/11 - 10:51:10.325 Entering message
+2020/09/11 - 10:51:13.547 *************************************************
+2020/09/11 - 10:51:13.555 Test PASSED
+2020/09/11 - 10:51:13.562 *************************************************
+2020/09/11 - 11:10:36.864 
+2020/09/11 - 11:10:36.873 *************************************************
+2020/09/11 - 11:10:36.880 Setting up a test
+2020/09/11 - 11:10:36.891 *************************************************
+2020/09/11 - 11:10:36.898 Starting a driver
+2020/09/11 - 11:10:40.736 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 11:10:40.789 Checking the title
+2020/09/11 - 11:10:40.838 Looking for element
+2020/09/11 - 11:10:41.648 Entering E-mail
+2020/09/11 - 11:10:42.665 Looking for element
+2020/09/11 - 11:10:42.691 Entering password
+2020/09/11 - 11:10:43.285 Looking for element
+2020/09/11 - 11:10:43.680 Skipping 'Stay signed in'
+2020/09/11 - 11:10:44.723 Looking for element
+2020/09/11 - 11:10:49.824 Exception: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='download-desktop-page']/div/a"}
+  (Session info: chrome=85.0.4183.102)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at Test.CommonTest.Click(String element, String path) in C:\Users\admin\source\repos\Test\Test\CommonTest.cs:line 32
+   at Test.TeamsChromeTest.LogIn() in C:\Users\admin\source\repos\Test\Test\TeamsChromeTest.cs:line 66
+2020/09/11 - 11:10:49.837 
+2020/09/11 - 11:10:49.853 *************************************************
+2020/09/11 - 11:10:49.860 Starting a test
+2020/09/11 - 11:10:49.866 *************************************************
+2020/09/11 - 11:10:49.876 Looking for element
+2020/09/11 - 11:10:55.007 *************************************************
+2020/09/11 - 11:10:55.014 Test PASSED
+2020/09/11 - 11:10:55.022 *************************************************
+2020/09/11 - 11:11:21.567 
+2020/09/11 - 11:11:21.576 *************************************************
+2020/09/11 - 11:11:21.583 Setting up a test
+2020/09/11 - 11:11:21.598 *************************************************
+2020/09/11 - 11:11:21.614 Starting a driver
+2020/09/11 - 11:11:24.370 Executing GoToUrl https://teams.microsoft.com/ 
+2020/09/11 - 11:11:25.257 Checking the title
+2020/09/11 - 11:11:25.454 Looking for element
+2020/09/11 - 11:11:26.210 Entering E-mail
+2020/09/11 - 11:11:27.232 Looking for element
+2020/09/11 - 11:11:27.256 Entering password
+2020/09/11 - 11:11:27.862 Looking for element
+2020/09/11 - 11:11:33.023 Skipping 'Stay signed in'
+2020/09/11 - 11:11:34.094 Looking for element
+2020/09/11 - 11:11:34.387 Opening web app
+2020/09/11 - 11:11:34.401 
+2020/09/11 - 11:11:34.420 *************************************************
+2020/09/11 - 11:11:34.428 Starting a test
+2020/09/11 - 11:11:34.435 *************************************************
+2020/09/11 - 11:11:34.445 Looking for element
+2020/09/11 - 11:11:37.924 Trying to attach a file
+2020/09/11 - 11:11:37.932 Looking for element
+2020/09/11 - 11:11:37.956 Selecting OneDrive Option
+2020/09/11 - 11:11:46.860 Looking for element
+2020/09/11 - 11:11:46.942 Selecting Document
+2020/09/11 - 11:11:50.401 Looking for element
+2020/09/11 - 11:11:50.436 Uploading the file
+2020/09/11 - 11:11:55.886 File already uploaded
+2020/09/11 - 11:11:55.944 Trying to replace the file
+2020/09/11 - 11:11:57.207 Replacing the file
+2020/09/11 - 11:12:03.232 Looking for element
+2020/09/11 - 11:12:03.245 Changing a channel
+2020/09/11 - 11:12:05.157 Looking for element
+2020/09/11 - 11:12:05.275 Entering message
+2020/09/11 - 11:12:08.856 *************************************************
+2020/09/11 - 11:12:08.866 Test PASSED
+2020/09/11 - 11:12:08.874 *************************************************

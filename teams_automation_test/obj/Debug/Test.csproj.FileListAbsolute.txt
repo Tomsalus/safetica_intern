@@ -1,0 +1,42 @@
+C:\Users\admin\source\repos\Test\Test\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\admin\source\repos\Test\Test\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\admin\source\repos\Test\Test\bin\Debug\nunit.engine.dll
+C:\Users\admin\source\repos\Test\Test\bin\Debug\nunit.engine.api.dll
+C:\Users\admin\source\repos\Test\Test\bin\Debug\nunit.engine.core.dll
+C:\Users\admin\source\repos\Test\Test\bin\Debug\Test.dll
+C:\Users\admin\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\admin\source\repos\Test\Test\bin\Debug\nunit.framework.dll
+C:\Users\admin\source\repos\Test\Test\bin\Debug\WebDriver.dll
+C:\Users\admin\source\repos\Test\Test\bin\Debug\WebDriver.Support.dll
+C:\Users\admin\source\repos\Test\Test\bin\Debug\nunit.framework.pdb
+C:\Users\admin\source\repos\Test\Test\bin\Debug\nunit.framework.xml
+C:\Users\admin\source\repos\Test\Test\bin\Debug\WebDriver.xml
+C:\Users\admin\source\repos\Test\Test\bin\Debug\WebDriver.Support.xml
+C:\Users\admin\source\repos\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\admin\source\repos\Test\Test\obj\Debug\Test.dll
+C:\Users\admin\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\admin\source\repos\Test\Test\bin\Debug\Test.dll.config
+C:\Users\admin\source\repos\Test\Test\bin\Debug\log4net.dll
+C:\Users\admin\source\repos\Test\Test\bin\Debug\log4net.xml
+F:\Destkop\Programy C#\Test\obj\Debug\Test.csprojAssemblyReference.cache
+F:\Destkop\Programy C#\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Destkop\Programy C#\Test\obj\Debug\Test.dll
+F:\Destkop\Programy C#\Test\obj\Debug\Test.pdb
+F:\Destkop\Programy C#\Test\bin\Debug\NUnit3.TestAdapter.dll
+F:\Destkop\Programy C#\Test\bin\Debug\NUnit3.TestAdapter.pdb
+F:\Destkop\Programy C#\Test\bin\Debug\nunit.engine.dll
+F:\Destkop\Programy C#\Test\bin\Debug\nunit.engine.api.dll
+F:\Destkop\Programy C#\Test\bin\Debug\nunit.engine.core.dll
+F:\Destkop\Programy C#\Test\bin\Debug\Test.dll.config
+F:\Destkop\Programy C#\Test\bin\Debug\Test.dll
+F:\Destkop\Programy C#\Test\bin\Debug\Test.pdb
+F:\Destkop\Programy C#\Test\bin\Debug\log4net.dll
+F:\Destkop\Programy C#\Test\bin\Debug\nunit.framework.dll
+F:\Destkop\Programy C#\Test\bin\Debug\WebDriver.dll
+F:\Destkop\Programy C#\Test\bin\Debug\WebDriver.Support.dll
+F:\Destkop\Programy C#\Test\bin\Debug\log4net.xml
+F:\Destkop\Programy C#\Test\bin\Debug\nunit.framework.xml
+F:\Destkop\Programy C#\Test\obj\Debug\Test.csproj.CopyComplete
+F:\Destkop\Programy C#\Test\bin\Debug\testcentric.engine.metadata.dll

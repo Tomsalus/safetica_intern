@@ -1,0 +1,97 @@
+2020.09.18 - 17:16:44.141 
+2020.09.18 - 17:16:44.153 *************************************************
+2020.09.18 - 17:16:44.163 Starting a test
+2020.09.18 - 17:16:44.184 *************************************************
+2020.09.18 - 17:16:56.686 
+2020.09.18 - 17:16:56.696 *************************************************
+2020.09.18 - 17:16:56.708 Setting up a test
+2020.09.18 - 17:16:56.728 *************************************************
+2020.09.18 - 17:16:56.796 Starting a driver
+2020.09.18 - 17:16:57.380 Executing GoToUrl https://teams.microsoft.com/ 
+2020.09.18 - 17:16:58.442 Looking for element
+2020.09.18 - 17:16:58.578 Entering E-mail
+2020.09.18 - 17:16:59.604 Looking for element
+2020.09.18 - 17:16:59.694 Entering password
+2020.09.18 - 17:17:00.712 Looking for element
+2020.09.18 - 17:17:01.364 Skipping 'Stay signed in'
+2020.09.18 - 17:17:02.393 Looking for element
+2020.09.18 - 17:17:07.946 Opening web app
+2020.09.18 - 17:17:07.970 Looking for element
+2020.09.18 - 17:17:18.733 Creating new conversation
+2020.09.18 - 17:17:18.771 Looking for element
+2020.09.18 - 17:17:22.002 Trying to attach a file
+2020.09.18 - 17:17:22.015 Looking for element
+2020.09.18 - 17:17:22.021 Selecting OneDrive Option
+2020.09.18 - 17:17:26.496 Looking for element
+2020.09.18 - 17:17:26.569 Selecting Document
+2020.09.18 - 17:17:32.292 Looking for element
+2020.09.18 - 17:17:32.332 Uploading the file
+2020.09.18 - 17:17:35.147 File already uploaded
+2020.09.18 - 17:17:35.158 Trying to replace the file
+2020.09.18 - 17:17:35.930 Replacing the file
+2020.09.18 - 17:17:42.011 Looking for element
+2020.09.18 - 17:17:42.721 Creating new conversation
+2020.09.18 - 17:17:42.727 Looking for element
+2020.09.18 - 17:17:43.046 Trying to attach a file
+2020.09.18 - 17:17:43.052 Looking for element
+2020.09.18 - 17:17:43.061 Selecting OneDrive Option
+2020.09.18 - 17:17:44.009 Looking for element
+2020.09.18 - 17:17:44.018 Selecting Document
+2020.09.18 - 17:17:44.415 Looking for element
+2020.09.18 - 17:17:44.421 Uploading the file
+2020.09.18 - 17:17:45.234 File already uploaded
+2020.09.18 - 17:17:45.242 Trying to replace the file
+2020.09.18 - 17:17:45.831 Replacing the file
+2020.09.18 - 17:17:50.908 Looking for element
+2020.09.18 - 17:17:50.918 Changing a channel
+2020.09.18 - 17:17:51.329 Looking for element
+2020.09.18 - 17:17:52.303 Creating new conversation
+2020.09.18 - 17:17:52.312 Looking for element
+2020.09.18 - 17:17:52.408 Entering message
+2020.09.18 - 17:17:52.760 Looking for element
+2020.09.18 - 17:17:54.084 Creating new conversation
+2020.09.18 - 17:17:54.098 Looking for element
+2020.09.18 - 17:17:54.104 Entering message
+2020.09.18 - 17:17:54.291 *************************************************
+2020.09.18 - 17:17:54.301 Test PASSED
+2020.09.18 - 17:17:54.338 *************************************************
+2020.09.18 - 17:17:57.661 
+2020.09.18 - 17:17:57.669 *************************************************
+2020.09.18 - 17:17:57.675 Starting a test
+2020.09.18 - 17:17:57.680 *************************************************
+2020.09.18 - 17:18:07.457 
+2020.09.18 - 17:18:07.469 *************************************************
+2020.09.18 - 17:18:07.477 Setting up a test
+2020.09.18 - 17:18:07.483 *************************************************
+2020.09.18 - 17:18:07.488 Starting a driver
+2020.09.18 - 17:18:10.178 Executing GoToUrl https://teams.microsoft.com/ 
+2020.09.18 - 17:18:11.396 Looking for element
+2020.09.18 - 17:18:12.056 Entering E-mail
+2020.09.18 - 17:18:13.091 Looking for element
+2020.09.18 - 17:18:13.663 Entering password
+2020.09.18 - 17:18:14.683 Looking for element
+2020.09.18 - 17:18:20.175 Skipping 'Stay signed in'
+2020.09.18 - 17:18:21.187 Looking for element
+2020.09.18 - 17:18:21.612 Opening web app
+2020.09.18 - 17:18:21.619 Looking for element
+2020.09.18 - 17:18:25.705 Creating new conversation
+2020.09.18 - 17:18:25.712 Looking for element
+2020.09.18 - 17:18:33.197 Trying to attach a file
+2020.09.18 - 17:18:33.204 Looking for element
+2020.09.18 - 17:18:33.212 Selecting OneDrive Option
+2020.09.18 - 17:18:36.845 Looking for element
+2020.09.18 - 17:18:36.879 Selecting Document
+2020.09.18 - 17:18:39.225 Looking for element
+2020.09.18 - 17:18:39.577 Uploading the file
+2020.09.18 - 17:18:42.976 File already uploaded
+2020.09.18 - 17:18:42.994 Trying to replace the file
+2020.09.18 - 17:18:43.368 Replacing the file
+2020.09.18 - 17:18:48.829 Looking for element
+2020.09.18 - 17:18:48.836 Changing a channel
+2020.09.18 - 17:18:51.840 Looking for element
+2020.09.18 - 17:18:52.077 Creating new conversation
+2020.09.18 - 17:18:52.084 Looking for element
+2020.09.18 - 17:18:52.502 Entering message
+2020.09.18 - 17:18:53.121 *************************************************
+2020.09.18 - 17:18:53.129 Test PASSED
+2020.09.18 - 17:18:53.142 *************************************************
