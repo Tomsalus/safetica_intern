@@ -10,6 +10,7 @@ Testing using Selenium WebDriver
 4. Upload new files / Replace existing files
 5. Change channels
 6. Send a message
+7. Add logging
   
 # Used tools
   
